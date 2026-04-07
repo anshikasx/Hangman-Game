@@ -64,6 +64,21 @@ src
 	•	PlayGame → Main game logic and state management
 	•	TextInputFormContainer → Handles word input and navigation
 
+## 📍 UI
+
+### Enter a secret word
+<img width="1072" height="683" alt="Screenshot 2026-04-07 at 10 59 30 PM" src="https://github.com/user-attachments/assets/6c187e43-ae53-4494-982a-ad7955465b04" />
+
+### Wrong answers increase hangman step
+<img width="1072" height="683" alt="Screenshot 2026-04-07 at 10 59 45 PM" src="https://github.com/user-attachments/assets/86a3d94e-e04b-4654-9348-a8222a5901fb" />
+
+### Correct letters are guessed
+<img width="1072" height="687" alt="Screenshot 2026-04-07 at 11 00 08 PM" src="https://github.com/user-attachments/assets/175f8b45-e80e-4b98-ad64-842d59db6987" />
+
+### User won
+<img width="1072" height="687" alt="Screenshot 2026-04-07 at 11 00 13 PM" src="https://github.com/user-attachments/assets/62bd4d18-6781-4e4e-a58a-a90dc7761467" />
+
+
  ## ▶️ Run Project Locally
  1. Clone the repository:
     ``git clone git@github.com:anshikasx/Hangman-Game.git``
